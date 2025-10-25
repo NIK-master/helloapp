@@ -1,4 +1,4 @@
-print("Hello World")
+print("hello everyone")
 
 def greetWhite():
     print("hello white")
